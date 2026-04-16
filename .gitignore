@@ -1,15 +1,7 @@
-
 .venv/
+venv/
 raw/
 __pycache__/
 *.pyc
 .DS_Store
-venv/
-warmpup.py/
-warmpup.py/
 warmpup.py
-venv/
-metadata.csv
-mass_properties.csv
-mass_properties.csv/
-TranAD
